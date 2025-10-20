@@ -13,6 +13,10 @@
 
 如果这个项目让你有所收获，记得 Star 关注哦，这对我是非常不错的鼓励与支持。
 
+## 这是bs01-jdk17
+基于原本 成功启动的商场版本 git checkout 的新分支， 专门用于编写新的bs
+参考的对话链接： https://gemini.google.com/app/7d90121546d67c61 
+
 ## 🐶 新手必读
 
 * 演示地址【Vue3 + element-plus】：<http://dashboard-vue3.yudao.iocoder.cn>
